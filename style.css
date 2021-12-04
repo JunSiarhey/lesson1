@@ -6,3 +6,7 @@
 p{
     border: 1px solid;
 }
+h1{
+    text-transform: uppercase;
+    color: blueviolet;
+}
