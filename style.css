@@ -3,4 +3,6 @@
     padding:0;
 }
 
-.class{}
+p{
+    border: 1px solid;
+}
